@@ -89,7 +89,7 @@ Project Structure
 - README – Project documentation describing objectives, methodology, and key insights.
 
 Dataset Access
-The dataset used in this project is large and therefore not included in this repository.
 
-Source: https://catalog.data.gov/dataset/electric-vehicle-population-data
+- The dataset used in this project is large (62.1 MB) and therefore not included in this repository.
+	-Source: https://catalog.data.gov/dataset/electric-vehicle-population-data
 
