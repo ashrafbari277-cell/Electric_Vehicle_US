@@ -1,14 +1,14 @@
-# Electric_Vehicle_US
+# Electric_Vehicle_US_Washington
 EV Market Analysis (Python, Google Sheets) Analyzed 270k+  U.S EV records to identify manufacturer dominance, top model trends, and the shift toward fully electric using EDA and data visualization.
 
 Project Overview
 The adoption of electric vehicles (EVs) has grown rapidly in recent years due to advancements in technology and increased focus on sustainable transportation.  
-This project analyzes large-scale U.S. electric vehicle registration data to understand manufacturer dominance, model popularity, and market trends over time, with a specific focus on the shift toward fully electric vehicles.
+This project analyzes large-scale U.S. electric vehicle registration data based only on the state of Washington (WA) to understand manufacturer dominance, model popularity, and market trends over time, with a specific focus on the shift toward fully electric vehicles.
 
 
 Problem Statement
 
-Electric Vehicle Market Analysis Based on Manufacturer and Model Trends in the United States
+Electric Vehicle Market Analysis Based on Manufacturer and Model Trends in the State Of Washington
 The objective of this project is to analyze electric vehicle registration data in order to:
 - Identify leading EV manufacturers and popular models
 - Study EV adoption trends over time
@@ -87,4 +87,9 @@ Project Structure
 - XLSX_CSV Files – Contains the original electric vehicle dataset downloaded from data.gov (USA) and spreadsheet files used for initial exploration.
 - Python_&Viz – Contains Python scripts or notebooks used for data cleaning, analysis, and visualization.
 - README – Project documentation describing objectives, methodology, and key insights.
+
+Dataset Access
+The dataset used in this project is large and therefore not included in this repository.
+
+Source: https://catalog.data.gov/dataset/electric-vehicle-population-data
 
